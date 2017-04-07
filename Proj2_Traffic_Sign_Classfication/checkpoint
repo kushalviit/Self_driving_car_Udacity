@@ -1,0 +1,2 @@
+model_checkpoint_path: "samernet"
+all_model_checkpoint_paths: "samernet"

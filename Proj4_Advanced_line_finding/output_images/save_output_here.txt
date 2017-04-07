@@ -1,0 +1,7 @@
+bounded_lane.jpg---> bounding box on lane to check the parallelness during perspective transform
+caliberated_Chessboard_image.jpg-->Chess board image after caliberation and removal of distortion
+finding_lanes.png--> The mechanism used to find lane lines
+marked_lane.jpg--> output after testing algorithm on test2 image
+output.mp4--> output of the given video project_video.mp4 after subjecting it to algorithm pipeline
+perspective_color.jpg/color1.jpg--> test images subjected to perspective trasnsform
+
